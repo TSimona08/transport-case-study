@@ -10,7 +10,6 @@ This project analyzes the environmental impacts of private transport in Denmark 
   - Task 1: EV Market Penetration Model & Problem Definition
   - Task 2: Quantitative Sustainability Assessment
   - Task 3: Scenario Analysis and Sustainability Pathways
-  - Conclusions and References
 
 ### Data Files
 
